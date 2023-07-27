@@ -1,0 +1,11 @@
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\bin\Debug\Date time atividade.exe.config
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\bin\Debug\Date time atividade.exe
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\bin\Debug\Date time atividade.pdb
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date time atividade.csproj.AssemblyReference.cache
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date time atividade.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date_time_atividade.Form1.resources
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date_time_atividade.Properties.Resources.resources
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date time atividade.csproj.GenerateResource.cache
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date time atividade.csproj.CoreCompileInputs.cache
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date time atividade.exe
+C:\Users\2022102020019\source\repos\Date time atividade\Date time atividade\obj\Debug\Date time atividade.pdb
